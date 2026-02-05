@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nikhil Ratagal <br><br>Aspiring Data Analyst | Data Science Enthusiast | Python & Power BI Developer<br><br>I’m passionate about transforming raw data into actionable insights and building data-driven solutions.  <br>I enjoy working with real-world datasets, creating interactive dashboards, and applying machine learning to solve business problems.<br>
+*Hi, I'm Nikhil Ratagal* <br><br>Aspiring Data Analyst | Data Science Enthusiast | Python & Power BI Developer<br><br>I’m passionate about transforming raw data into actionable insights and building data-driven solutions.  <br>I enjoy working with real-world datasets, creating interactive dashboards, and applying machine learning to solve business problems.<br>
 
 
 ## 🌐 Socials:
