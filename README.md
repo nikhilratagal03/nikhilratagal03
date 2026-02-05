@@ -1,5 +1,6 @@
 # 💫 About Me:
-# 👋 Hi, I'm Nikhil Ratagal  <br><br>🚀 **Aspiring Data Analyst | Data Science Enthusiast | Python & Power BI Developer**  <br><br>I’m passionate about transforming raw data into actionable insights and building data-driven solutions.  <br>I enjoy working with real-world datasets, creating interactive dashboards, and applying machine learning to solve business problems.
+# 👋 Hi, I'm Nikhil Ratagal  <br><br>🚀 **Aspiring Data Analyst | Data Science Enthusiast | Python & Power BI Developer**  <br><br>I’m passionate about transforming raw data into actionable insights and building data-driven solutions.  <br>I enjoy working with real-world datasets, creating interactive dashboards, and applying machine learning to solve business problems.<br><br>🔍 What I Do<br>- 📊 Data Analysis & Visualization  <br>- 🧠 Machine Learning & Predictive Modeling  <br>- 🛠️ Data Cleaning, EDA & Feature Engineering  <br>- 📈 KPI Tracking & Business Insights  <br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-ratagal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilratagal003@gmail.com) 
